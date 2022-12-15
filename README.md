@@ -1,2 +1,2 @@
 # fireworks.github.io
-remote_theme: THEME-NAME
+theme: Hacker
